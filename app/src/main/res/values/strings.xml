@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <!--Header text for the list of toppings [CHAR LIMIT = 20]-->
+    <string name="toppings" translatable="false">Toppings</string>
+    <string name="Toppings" translatable="false">Toppings</string>
+    <string name="enter_your_name" translatable="false">Enter your Name</string>
+    <string name="milk" translatable="false">Milk</string>
+    <string name="chocolate" translatable="false">Chocolate</string>
+    <string name="quantity" translatable="false">quantity</string>
+    <string name="order_summary" translatable="false">Order Summary</string>
+    <string name="order" translatable="false">ORDER</string>
+    <string name="Thanks_for_your_patronage" translatable="false">Thanks for your patronage</string>
+</resources>
